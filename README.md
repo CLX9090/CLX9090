@@ -15,6 +15,28 @@
     <p>⚙️ I program anything as long as it helps me understand how it truly works.</p>
 </div>
 
+
+<div align="center">
+  <h1>About me</h1>
+  <p>I'm a 20-year-old guy</p>
+  <p>I use Windows/Arch</p>
+  <p>I'm bored most of the time</p>
+  <p>I'm from Colombia</p>
+  <p>:3</p>
+  <p>Awoo!!</p>
+  <p>Fun Fact: I'm a cloud</p>
+
+  <br>
+
+  <code>Developer and IT enthusiast</code>
+  <br><br>
+  <code>=========================</code>
+  <br><br>
+  <code>¯\_(ツ)_/¯</code>
+</div>
+
+
+
 <div align="center">
   <h1>:hammer: Skills</h1>
   <img src="https://skillicons.dev/icons?i=python,rust,typescript,java,react,github,docker,bash,cpp,arduino,androidstudio,javascript,powershell,vscode" />
@@ -41,8 +63,25 @@
 
 <br>
 
-<h2 align="center">👋 Thank you for visiting!</h2>
+<div align="center">
+  <h1>📱 Contact</h1>
+  <p>Feel free to reach out through any of the platforms below:</p>
+  <p>
+    <a href="https://discord.com/users/clx9090" target="_blank">
+      <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
+    </a>
+    <a href="https://instagram.com/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+    </a>
+    <a href="mailto:claxlymaldad@gmail.com">
+      <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+    </a>
+  </p>
+</div>
 
+
+<br>
+<h2 align="center">👋 Thank you for visiting!</h2>
 <p align="center">
   <img src="https://profile-counter.glitch.me/CLX9090/count.svg" />
 </p>
