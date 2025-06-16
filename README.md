@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100" src="https://github.com/user-attachments/assets/fae54e71-c962-4868-ad16-f727a0593d00" />
+  <img width="100" src="" />
 </div>
 
 <div align="center">
@@ -13,12 +13,10 @@
 
 <div align="center">
   <h1>What do I like to code?</h1>
-  <ul style="list-style: none; padding: 0;">
     <p>🔓 I enjoy exploiting and exploring security flaws in games or systems.</p>
     <p>🎮 I like creating projects such as games from scratch or modified versions.</p>
     <p>🧪 I test concepts to fully understand them, going beyond just theory.</p>
     <p>⚙️ I program anything as long as it helps me understand how it truly works.</p>
-  </ul>
 </div>
 
 <div align="center">
