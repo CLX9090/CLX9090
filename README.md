@@ -28,14 +28,19 @@
 
   <br>
 
-  <code>Developer and IT enthusiast</code>
-  <br><br>
-  <code>=========================</code>
-  <br><br>
-  <code>¯\_(ツ)_/¯</code>
+<div align="center">
+
+  `Developer and IT enthusiast`
+  <br>
+
+  `=========================`
+  <br>
+
+  `¯\_(ツ)_/¯`
 </div>
-
-
+</div>
+ <br>
+ <br>
 
 <div align="center">
   <h1>:hammer: Skills</h1>
