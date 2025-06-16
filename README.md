@@ -1,8 +1,4 @@
 <div align="center">
-  <img width="100" src="" />
-</div>
-
-<div align="center">
   <h1>Hi, I'm ClaXly — also known as CLX</h1>
   <p>
     I'm passionate about creating projects purely for the joy of learning, experimenting, or simply having fun.<br>
