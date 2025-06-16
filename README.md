@@ -17,7 +17,7 @@
 
 <div align="center">
   <h1>:hammer: Skills</h1>
-  <img src="https://skillicons.dev/icons?i=python,rust,java,react,github,docker,bash,cpp,arduino,androidstudio,javascript,powershell,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,rust,typescript,java,react,github,docker,bash,cpp,arduino,androidstudio,javascript,powershell,vscode" />
 </div>
 
 <br><br>
